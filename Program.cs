@@ -6,7 +6,7 @@ namespace Untitled_RPG_Engine
     {
         public static void Main()
         {
-            Console.WriteLine("Hello Worald!");
+            Console.WriteLine("Hello World!");
         }
     }
 }

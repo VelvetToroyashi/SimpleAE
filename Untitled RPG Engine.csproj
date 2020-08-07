@@ -7,4 +7,8 @@
     <AssemblyName>SimpleAE</AssemblyName>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove=".gitignore" />
+  </ItemGroup>
+
 </Project>
